@@ -1,0 +1,6 @@
+{
+    "DRIVER": "{SQL Server}",
+    "SERVER": "DESKTOP-GSMR3GD\\NTI",
+    "DATABASE": "ntii",
+    "Trusted_Connection": "yes"
+}
